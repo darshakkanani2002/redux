@@ -1,7 +1,6 @@
 const State = {
     counter: 0,
     price: 500,
-
 }
 
 const rootReducer = (state = State, action) => {
